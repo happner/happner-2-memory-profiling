@@ -1,0 +1,114 @@
+
+
+  events
+2018-01-22 17:18:03.079 [ INFO] - 6ms	client (MeshClient) initialized!
+2018-01-22 17:18:03.132 [ INFO] - 53ms	client (MeshClient) initialized!
+2018-01-22 17:18:03.177 [ INFO] - 45ms	client (MeshClient) initialized!
+2018-01-22 17:18:03.218 [ INFO] - 41ms	client (MeshClient) initialized!
+2018-01-22 17:18:03.257 [ INFO] - 39ms	client (MeshClient) initialized!
+    ✓ sets up events on all the clients
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+received a message
+    ✓ emits an event every 1 seconds for 5 seconds. (5006ms)
+
+
+  2 passing (5s)
+
